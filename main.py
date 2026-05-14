@@ -9,3 +9,4 @@ jt = Witness(
 )
 
 record = jt.observe("Pike Place buskers clustering near the market entrance.")
+print(record)
