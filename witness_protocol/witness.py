@@ -4,7 +4,7 @@ class Witness:
         self.observer = observer
         self.place = place
 
-    def observe(self):
+def observe(self, observation):
 
         print()
         print("OBSERVER:", self.observer)
