@@ -8,4 +8,4 @@ jt = Witness(
     "Pike Place Market"
 )
 
-jt.observe()
+record = jt.observe("Pike Place buskers clustering near the market entrance.")
