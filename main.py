@@ -1,4 +1,4 @@
-from witness_protocol.witness import Witness
+from witness_protocol import Witness
 
 print("MEMORY AS INFRASTRUCTURE")
 print("------------------------")
