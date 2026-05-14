@@ -1,0 +1,18 @@
+[
+  {
+    "place": "Pike Place Market",
+    "rhythm": 8,
+    "memory_persistence": 9,
+    "spectacle": 5,
+    "contradiction": 3,
+    "commons_health": 8
+  },
+  {
+    "place": "Downtown Seattle",
+    "rhythm": 4,
+    "memory_persistence": 2,
+    "spectacle": 9,
+    "contradiction": 8,
+    "commons_health": 3
+  }
+]
