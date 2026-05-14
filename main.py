@@ -8,4 +8,4 @@ jt = Witness(
     "Pike Place Market"
 )
 
-jt.observe()")
+jt.observe()
