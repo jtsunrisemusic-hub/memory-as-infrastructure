@@ -4,13 +4,12 @@ class Witness:
         self.observer = observer
         self.place = place
 
-def observe(self, observation):
+    def observe(self, observation):
 
-        print()
-        print("OBSERVER:", self.observer)
-        print("PLACE:", self.place)
+        record = {
+            "observer": self.observer,
+            "place": self.place,
+            "observation": observation,
+        }
 
-        print(
-            "The witness records rhythm, contradiction, "
-            "memory persistence, and symbolic distortion."
-        )
+        return record
